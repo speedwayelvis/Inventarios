@@ -8,6 +8,3 @@ versao=15.0(2)SE11
 ansible_command_timeout=1200
 tftpserver=192.168.15.5
 checksum=81064ff93a36442ed4f5ad6be86c8ceb
-
-[homelab:children]
-lab1
